@@ -18,6 +18,11 @@
 */
 
 //Code Here
+const user = {
+  username = 'Nathan',
+  email = 'myEmail',
+  getUsername = function() {return this.username}
+}
 
 ////////// PROBLEM 2 //////////
 
